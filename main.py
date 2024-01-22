@@ -1,6 +1,6 @@
-from consts import COINS, SEQUENCE
 import timeit
 
+from consts import COINS, SEQUENCE
 from utils import count_coins, generate_random_numbers, generate_dict_structure
 
 
